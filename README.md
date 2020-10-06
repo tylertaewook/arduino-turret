@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** tylertaewook, project-orbitron, alitecraft, taewook.kim@columbia.edu
+*** tylertaewook, arduino-turret, alitecraft, taewook.kim@columbia.edu
 -->
 
 
@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tylertaewook/project-orbitron">
+  <a href="https://github.com/tylertaewook/arduino-turret">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -35,14 +35,14 @@
   <p align="center">
     A unique control algorithm in Mathematica for 4WIS/WID vehicles
     <br />
-    <a href="https://github.com/tylertaewook/project-orbitron"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tylertaewook/arduino-turret"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tylertaewook/project-orbitron">View Demo</a>
+    <a href="https://github.com/tylertaewook/arduino-turret">View Demo</a>
     ·
-    <a href="https://github.com/tylertaewook/project-orbitron/issues">Report Bug</a>
+    <a href="https://github.com/tylertaewook/arduino-turret/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tylertaewook/project-orbitron/issues">Request Feature</a>
+    <a href="https://github.com/tylertaewook/arduino-turret/issues">Request Feature</a>
   </p>
 </p>
 
@@ -77,7 +77,7 @@ First project that led me into the world of computer science and engineering. Se
 
 Tyler Kim - taewook.kim@columbia.edu
 
-Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.com/tylertaewook/project-orbitron)
+Project Link: [https://github.com/tylertaewook/arduino-turret](https://github.com/tylertaewook/arduino-turret)
 
 
 
