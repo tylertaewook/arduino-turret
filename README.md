@@ -27,7 +27,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/tylertaewook/project-orbitron">
-    
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Arduino-Controlled Airsoft Turret (T-33)</h3>
@@ -52,7 +52,8 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+  * [Airsoft Turret](#airsoft-turret)
+* [Build Notes](#build-notes)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -61,15 +62,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Orbitron](/images/orbitron1.jpeg)
+![Orbitron](/images/T-33.png)
 
-Here's a blank template to get started:
+First project that led me into the world of computer science and engineering. Self-taught C# and used it to develop a WinForm Application that controls the T-33 via bluetooth.
 
 
 ### Built With
 
 * [Arduino]()
-* [Mathematica]()
 * [C# WinForms]()
 
 <!-- CONTACT -->
