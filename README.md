@@ -140,7 +140,7 @@ These parts were beautifully assembled with a combination of wood screws and woo
 
 ![Airsoft Gun Modification](/Images/Turret/gun-mod.JPG)
 
-Modifying the airsoft gun was perhaps to most straight-forward part. I purchased a cheap G39 motor airsoft gun from a local shop, and disassembled them. In order to fire the gun electrically, all I had to do was replace the wires on the main motor and pull it outside. This way, the gun would automatically fire when two wires were connected through a simple relay.
+Modifying the airsoft gun was perhaps to most straight-forward part. I purchased a cheap G39 motor airsoft gun from a local shop and disassembled them. In order to fire the gun electrically, all I had to do was replace the wires on the main motor and pull it outside. This way, the gun would automatically fire when two wires were connected through a simple relay.
 
 ![Painted Base](/Images/Turret/base3.JPG)
 
