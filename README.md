@@ -82,7 +82,7 @@ The T-33 turret has following features:
 
 The main arduino board is made of three levels: main Arduino-UNO, Quad-Relay sheild, and a custom shield to solder rest of the components.
 
-![Arduino Setup](/Images/Skynet_App/inside.JPEG)
+![Arduino Setup](/Images/Turret/inside.JPEG)
 
 The Relay shield and its built-in Arduino library made it easier to control all the different features: Firing, Laser, and LED lights.
 The custom shield on top connected HC-06 Bluetooth model for communication and Pan/Tilt servo motors.
