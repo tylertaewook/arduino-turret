@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/tylertaewook/arduino-turret">
-    <img src="Images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Arduino-Controlled Airsoft Turret (T-33)</h3>
