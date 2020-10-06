@@ -88,12 +88,11 @@ Since most files were recovered from an old laptop, please excuse the low qualit
 ## Build Notes
 
 
-![CAD Design](/Images/Turret/cad-design-1.JPG)
+![CAD Design 2](/Images/Turret/raonsquare-help.JPG)
 
 The first prototype was a simple model made of foamboard and a single servomotor to design the final turret. After several foamboard prototypes, this was the final version I liked the most.
 
-
-![CAD Design 2](/Images/Turret/raonsquare-help.JPG)
+![CAD Design](/Images/Turret/cad-design-1.JPG)
 
 According to the prototype's design, I visited RaonSquare(http://raonsquare.com/), a small company dedicated to building interactive art experience using Arduino. There, I met Jae-Pil Choi who taught and helped me creating CAD designs using Adobe Illustrator.
 
