@@ -1,28 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** tylertaewook, arduino-turret, alitecraft, taewook.kim@columbia.edu
--->
-
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -65,8 +40,9 @@
 
 ![T-33](/Images/Turret/T-33.png)
 
-T-33 is an airsoft turret controlled by Arduino and C# WinForms application inspired by the movie Terminator. It is the first project that led the author into the world of computer science and engineering, self-teaching C# and Arduino in the process.
-This project was done completely independently during the summer of 2015, taking approximately three months to complete.
+
+T-33 is an independent hobby project airsoft turret inspired by the movie Terminator. It is controlled by C# WinForms App and Arduino. Dating back in summer 2015, it is the first project that led me into the world of computer science and engineering, self-teaching C# and Arduino in the process.
+
 
 Since most files were recovered from an old laptop, please excuse the low quality images and codes.
 
