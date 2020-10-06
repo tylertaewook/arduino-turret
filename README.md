@@ -73,12 +73,12 @@ Since most files were recovered from an old laptop, please excuse the low qualit
 ### Airsoft Turret
 
 The T-33 turret has following features:
-* [Pan/Tilt motion of the gun]()
-* [Electric Firing mechanism(semi-auto/full-auto)]()
-* [5W Laser Beam]()
-* [26 High-Power LED lights]()
-* [Bluetooth COM connection with WinForms App]()
-* [720p Wireless Webcam Feed]()
+* [Pan/Tilt motion of the gun]
+* [Electric Firing mechanism(semi-auto/full-auto)]
+* [5W Laser Beam]
+* [26 High-Power LED lights]
+* [Bluetooth COM connection with WinForms App]
+* [720p Wireless Webcam Feed]
 
 The main arduino board is made of three levels: main Arduino-UNO, Quad-Relay sheild, and a custom shield to solder rest of the components.
 
@@ -107,14 +107,37 @@ Of course, the loading bar is completely decorational as there's nothing much to
 
 This is the connecting screen where you can use the bottom-left and top-right box to connect to the turret.
 There are two ways to connect to the turret:
-* [Connecting through USB port directly to the Arduino (Given proper Portname and Baud Rate)]()
-* [Connecting through Bluetooth model that pops up on the top-right box]()
+* [Connecting through USB port directly to the Arduino (Given proper Portname and Baud Rate)]
+* [Connecting through Bluetooth model that pops up on the top-right box]
 
 ![Controlling Screen](/Images/Skynet_App/controlscreen.PNG)
 
 Finally, the highlight of this application. This controlling screen is the main GUI where you can use on-screen buttons or your keyboard to control the turret.
-I'll explain the features starting from top-left, in a clock-wise order:
-
+I'll explain the features starting from top-left:
+* [Status]
+  * [Based on the time it has fired, calculates a rough approximate of BB-bullets left;]
+  * [Automatically stops firing if the OVERHEAT gauge reaches the top]
+* [Tilt]
+  * [Calculates and visualizes the tilt of turret]
+* [CAM1]
+  * [Shows wireless webcam's feed in real time]
+* [PAN]
+  * [Calculates and visualizes the pan of turret]
+* [Scan Mode]
+  * [When turned on by clicking the ON button, turret slowly pans back and forth]
+* [Angle]
+  * [Roughly calculates the current pan/tilt value]
+* [CMD]
+  * [Prints any errors/logs/bullets left]
+* [Arrows]
+  * [You can click these arrows or use keyboard to pan/tilt/fire]
+* [Firing Mode]
+  * [Switch between semi-auto/full-auto]
+* [Lights]
+  * [Toggles the LED lights and Laser]
+* [Reload Mode]
+  * [When bullets have ran out, the gun will automatically point down, waiting for user to reload]
+* [Unimplemented]
 
 <!-- BUILD NOTES -->
 ## Build Notes
@@ -156,8 +179,7 @@ Project Link: [https://github.com/tylertaewook/arduino-turret](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
+* [Jae Pil Choi, RaonSquare]
 
 
 
