@@ -27,13 +27,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/tylertaewook/arduino-turret">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Arduino-Controlled Airsoft Turret (T-33)</h3>
 
   <p align="center">
-    A unique control algorithm in Mathematica for 4WIS/WID vehicles
+    Terminator-inspired Turret Project Controlled with C# WinForms App
     <br />
     <a href="https://github.com/tylertaewook/arduino-turret"><strong>Explore the docs »</strong></a>
     <br />
@@ -53,6 +53,7 @@
 
 * [About the Project](#about-the-project)
   * [Airsoft Turret](#airsoft-turret)
+  * [WinForms App](#winforms-app)
 * [Build Notes](#build-notes)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -62,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Orbitron](/images/T-33.png)
+![T-33](/Images/T-33.png)
 
 First project that led me into the world of computer science and engineering. Self-taught C# and used it to develop a WinForm Application that controls the T-33 via bluetooth.
 
