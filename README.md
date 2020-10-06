@@ -63,15 +63,36 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![T-33](/Images/T-33.png)
+![T-33](/Images/Turret/T-33.png)
 
-First project that led me into the world of computer science and engineering. Self-taught C# and used it to develop a WinForm Application that controls the T-33 via bluetooth.
+T-33 is an airsoft turret controlled by Arduino and C# WinForms application inspired by the movie Terminator. It is the first project that led the author into the world of computer science and engineering, self-teaching C# and Arduino in the process.
+This project was done completely independently during the summer of 2015, taking approximately three months to complete.
+
+### Airsoft Turret
 
 
-### Built With
+### WinForms App
 
-* [Arduino]()
-* [C# WinForms]()
+![Development](/Images/Skynet_App/dev1.png)
+
+<!-- BUILD NOTES -->
+## Build Notes
+
+![Prototype](/Images/Turret/prototype.png)
+
+![CAD Design](/Images/Turret/cad-design-1.jpeg)
+
+![CAD Design 2](/Images/Turret/cad-design-2.jpeg)
+
+![CAD Design 2](/Images/Turret/raonsquare-help.jpeg)
+
+![Laser Cutting](/Images/Turret/lasercut1.jpeg)
+
+![Base 1](/Images/Turret/base1.jpeg)
+
+![Airsoft Gun Modification](/Images/Turret/gun-mod.jpeg)
+
+![Painted Base](/Images/Turret/base3.jpeg)
 
 <!-- CONTACT -->
 ## Contact
