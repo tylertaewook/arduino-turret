@@ -73,26 +73,26 @@ This project was done completely independently during the summer of 2015, taking
 
 ### WinForms App
 
-![Development](/Images/Skynet_App/dev1.png)
+![Development](/Images/Skynet_App/dev1.jpg)
 
 <!-- BUILD NOTES -->
 ## Build Notes
 
 ![Prototype](/Images/Turret/prototype.png)
 
-![CAD Design](/Images/Turret/cad-design-1.jpeg)
+![CAD Design](/Images/Turret/cad-design-1.jpg)
 
-![CAD Design 2](/Images/Turret/cad-design-2.jpeg)
+![CAD Design 2](/Images/Turret/cad-design-2.jpg)
 
-![CAD Design 2](/Images/Turret/raonsquare-help.jpeg)
+![CAD Design 2](/Images/Turret/raonsquare-help.jpg)
 
-![Laser Cutting](/Images/Turret/lasercut1.jpeg)
+![Laser Cutting](/Images/Turret/lasercut1.jpg)
 
-![Base 1](/Images/Turret/base1.jpeg)
+![Base 1](/Images/Turret/base1.jpg)
 
-![Airsoft Gun Modification](/Images/Turret/gun-mod.jpeg)
+![Airsoft Gun Modification](/Images/Turret/gun-mod.jpg)
 
-![Painted Base](/Images/Turret/base3.jpeg)
+![Painted Base](/Images/Turret/base3.jpg)
 
 <!-- CONTACT -->
 ## Contact
