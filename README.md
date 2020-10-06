@@ -73,26 +73,32 @@ This project was done completely independently during the summer of 2015, taking
 
 ### WinForms App
 
-![Development](/Images/Skynet_App/dev1.jpg)
+![Development](/Images/Skynet_App/dev1.JPG)
+
+![Booting Screen](/Images/Skynet_App/dev1.JPG)
+
+![Connecting Screen](/Images/Skynet_App/connectscreen.JPG)
+
+![Controlling Screen](/Images/Skynet_App/controlscreen.PNG)
 
 <!-- BUILD NOTES -->
 ## Build Notes
 
-![Prototype](/Images/Turret/prototype.png)
+![Prototype](/Images/Turret/prototype.PNG)
 
-![CAD Design](/Images/Turret/cad-design-1.jpg)
+![CAD Design](/Images/Turret/cad-design-1.JPG)
 
-![CAD Design 2](/Images/Turret/cad-design-2.jpg)
+![CAD Design 2](/Images/Turret/cad-design-2.JPG)
 
-![CAD Design 2](/Images/Turret/raonsquare-help.jpg)
+![CAD Design 2](/Images/Turret/raonsquare-help.JPG)
 
-![Laser Cutting](/Images/Turret/lasercut1.jpg)
+![Laser Cutting](/Images/Turret/lasercut1.JPG)
 
-![Base 1](/Images/Turret/base1.jpg)
+![Base 1](/Images/Turret/base1.JPG)
 
-![Airsoft Gun Modification](/Images/Turret/gun-mod.jpg)
+![Airsoft Gun Modification](/Images/Turret/gun-mod.JPG)
 
-![Painted Base](/Images/Turret/base3.jpg)
+![Painted Base](/Images/Turret/base3.JPG)
 
 <!-- CONTACT -->
 ## Contact
@@ -106,7 +112,6 @@ Project Link: [https://github.com/tylertaewook/arduino-turret](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
 * []()
 * []()
 
