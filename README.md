@@ -72,12 +72,13 @@ Since most files were recovered from an old laptop, please excuse the low qualit
 
 ### Airsoft Turret
 
+![Arduino Setup](/Images/Skynet_App/inside.JPEG)
 
 ### WinForms App
 
 ![Development](/Images/Skynet_App/dev1.JPG)
 
-![Booting Screen](/Images/Skynet_App/dev1.JPG)
+![Booting Screen](/Images/Skynet_App/bootingscreen.JPG)
 
 ![Connecting Screen](/Images/Skynet_App/connectscreen.JPG)
 
@@ -86,13 +87,15 @@ Since most files were recovered from an old laptop, please excuse the low qualit
 <!-- BUILD NOTES -->
 ## Build Notes
 
-![Prototype](/Images/Turret/prototype.PNG)
 
 ![CAD Design](/Images/Turret/cad-design-1.JPG)
 
-![CAD Design 2](/Images/Turret/cad-design-2.JPG)
+The first prototype was a simple model made of foamboard and a single servomotor to design the final turret. After several foamboard prototypes, this was the final version I liked the most.
+
 
 ![CAD Design 2](/Images/Turret/raonsquare-help.JPG)
+
+According to the prototype's design, I visited RaonSquare(http://raonsquare.com/), a small company dedicated to building interactive art experience using Arduino. There, I met Jae-Pil Choi who taught and helped me creating CAD designs using Adobe Illustrator.
 
 ![Laser Cutting](/Images/Turret/lasercut1.JPG)
 
