@@ -115,27 +115,27 @@ There are two ways to connect to the turret:
 Finally, the highlight of this application. This controlling screen is the main GUI where you can use on-screen buttons or your keyboard to control the turret.
 I'll explain the features starting from top-left:
 * [Status]
-  * [Based on the time it has fired, calculates a rough approximate of BB-bullets left;]
-  * [Automatically stops firing if the OVERHEAT gauge reaches the top]
-* [Tilt]
-  * [Calculates and visualizes the tilt of turret]
+  * Based on the time it has fired, calculates a rough approximate of BB-bullets left;
+  * Automatically stops firing if the OVERHEAT gauge reaches the top
+* [Tilt] - Up/Down Arrow Key
+  * Calculates and visualizes the tilt of turret
 * [CAM1]
-  * [Shows wireless webcam's feed in real time]
-* [PAN]
-  * [Calculates and visualizes the pan of turret]
-* [Scan Mode]
-  * [When turned on by clicking the ON button, turret slowly pans back and forth]
+  * Shows wireless webcam's feed in real time (the image above is a placeholder)
+* [PAN] - Right/Left Arrow Key
+  * Calculates and visualizes the pan of turret
+* [Scan Mode] - 'S' Key
+  * When toggled, turret slowly pans back and forth
 * [Angle]
   * [Roughly calculates the current pan/tilt value]
 * [CMD]
   * [Prints any errors/logs/bullets left]
 * [Arrows]
   * [You can click these arrows or use keyboard to pan/tilt/fire]
-* [Firing Mode]
+* [Firing Mode] 'F' Key (respect)
   * [Switch between semi-auto/full-auto]
-* [Lights]
+* [Lights] ','(LED) '.'(Laser)
   * [Toggles the LED lights and Laser]
-* [Reload Mode]
+* [Reload Mode] 'R' Key
   * [When bullets have ran out, the gun will automatically point down, waiting for user to reload]
 * [Unimplemented]
 
