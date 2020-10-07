@@ -21,14 +21,9 @@
   </p>
 </p>
 
-```diff
-- DISCLAIMER: 
-- AS THIS PROJECT MAY SEEM CONTROVERSIAL TO SOME AUDIENCE, I WOULD LIKE TO EMPHASIZE THAT THIS WAS ONLY A 
-- HOBBY/FOR-FUN PROJECT AND NOT AN ATTEMPT OF WEAPONIZATION. FINAL PRODUCT WAS ONLY USED DURING AIRSOFT GAMES 
-- WITH SAFETY GEARS AND IN MAKER FAIR SHOWCASE. AIRSOFT GUN HAD PROPER POWER BRAKES INSTALLED TO REDUCE ITS 
-- POWER TO APPROX. 0.1J, ADHERING TO REPUBLIC OF KOREA'S AIRSOFT SAFETY REGULATIONS
-```
 
+**DISCLAIMER: 
+AS THIS PROJECT MAY SEEM CONTROVERSIAL TO SOME AUDIENCE, I WOULD LIKE TO EMPHASIZE THAT THIS WAS ONLY A HOBBY/FOR-FUN PROJECT AND NOT AN ATTEMPT OF WEAPONIZATION. FINAL PRODUCT WAS ONLY USED DURING AIRSOFT GAMES WITH SAFETY GEARS AND IN MAKER FAIR SHOWCASE. AIRSOFT GUN HAD PROPER POWER BRAKES INSTALLED TO REDUCE ITS POWER TO APPROX. 0.1J, ADHERING TO REPUBLIC OF KOREA'S AIRSOFT SAFETY REGULATIONS**
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -51,8 +46,7 @@
 
 **[[LINK - BUILD NOTES VIDEO]](https://youtu.be/NleIUokvxGE)**
 
-T-33 is an independent hobby project airsoft turret inspired by the movie *Terminator*. It is controlled by C# WinForms App and Arduino. Dating back to summer 2015, it is the first project that led me into the world of computer science and engineering, self-teaching C# and Arduino in the process.
-As this project was purely made for fun, finished turret was used during airsoft games with my friends and showcased in local maker fair.
+T-33 is an independent hobby project airsoft turret inspired by the movie *Terminator*. It is controlled by C# WinForms App and Arduino mainboard. Dating back to summer 2015, it is the first project that led me into the world of computer science and engineering, self-teaching C# and Arduino in the process.
 
 Since most files were recovered from an old laptop, please excuse the low quality images and codes.
 
@@ -66,7 +60,7 @@ The T-33 turret has following features:
 * [Bluetooth COM connection with WinForms App]
 * [720p Wireless Webcam Feed]
 
-The main arduino board is made of three levels: main Arduino-UNO, Quad-Relay sheild, and a custom shield to solder rest of the components.
+The main arduino board is made of three levels: main Arduino-UNO, Quad-Relay sheild, and a custom shield with the rest of the components.
 
 ![Arduino Setup](/Images/Turret/inside.JPEG)
 
@@ -101,7 +95,7 @@ There are two ways to connect to the turret:
 Finally, the highlight of this application. This controlling screen is the main GUI where you can use on-screen buttons or your keyboard to control the turret.
 I'll explain the features starting from top-left:
 * [Status]
-  * Based on the time it has fired, calculates a rough approximate of BB-bullets left;
+  * Calculates a rough approximate of BB-bullets left;
   * Automatically stops firing if the OVERHEAT gauge reaches the top
 * [Tilt] - Up/Down Arrow Key
   * Calculates and visualizes the tilt of turret
@@ -143,15 +137,15 @@ After finishing CAD design, I bought four 5mm MDF boards in a local woodworking 
 
 ![Base 1](/Images/Turret/base1.JPG)
 
-These parts were beautifully assembled with a combination of wood screws and wood glue. 
+Laser-cut parts were assembled with a combination of wood screws and wood glue. 
 
 ![Airsoft Gun Modification](/Images/Turret/gun-mod.JPG)
 
-Modifying the airsoft gun was perhaps to most straight-forward part. I purchased a cheap G39 motor airsoft gun from a local shop and disassembled them. In order to fire the gun electrically, all I had to do was replace the wires on the main motor and pull it outside. This way, the gun would automatically fire when two wires were connected through a simple relay.
+Modifying the airsoft gun was perhaps the most straight-forward part. I purchased a cheap G39 motor airsoft gun from a local shop and disassembled them. In order to fire the gun electrically, all I had to do was replace the wires on the main motor and pull it outside. This way, the gun would automatically fire when two wires were connected through a simple relay.
 
 ![Painted Base](/Images/Turret/base3.JPG)
 
-Last but not least, the most exciting part awaits: painting and decorating. Because the entire turret was made of MDF boards, a board vulnerable to water, I had to use MDF primer first before adding the beautiful gray paint that suits the terminator-vibe. After the initial paint dried, I applied the SKYNET logo and T-33 text on the side of the turret before coating with the sealer.
+Last but not least, the most exciting part awaits: painting and decorating. Because the entire turret was made of MDF boards, a board vulnerable to water, I had to use MDF primer first before adding the beautiful gray paint that suits the terminator-vibe. After the initial paint dried, I applied the SKYNET logo and T-33 text on the side of the turret before coating it with the sealer.
 
 <!-- CONTACT -->
 ## Contact
