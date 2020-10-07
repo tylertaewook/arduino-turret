@@ -22,8 +22,8 @@
 </p>
 
 
-**DISCLAIMER: 
-AS THIS PROJECT MAY SEEM CONTROVERSIAL TO SOME AUDIENCE, I WOULD LIKE TO EMPHASIZE THAT THIS WAS ONLY A HOBBY/FOR-FUN PROJECT AND NOT AN ATTEMPT OF WEAPONIZATION. FINAL PRODUCT WAS ONLY USED DURING AIRSOFT GAMES WITH SAFETY GEARS AND IN MAKER FAIR SHOWCASE. AIRSOFT GUN HAD PROPER POWER BRAKES INSTALLED TO REDUCE ITS POWER TO APPROX. 0.1J, ADHERING TO REPUBLIC OF KOREA'S AIRSOFT SAFETY REGULATIONS**
+> **DISCLAIMER: 
+> AS THIS PROJECT MAY SEEM CONTROVERSIAL TO SOME AUDIENCE, I WOULD LIKE TO EMPHASIZE THAT THIS WAS ONLY A HOBBY/FOR-FUN PROJECT AND NOT AN ATTEMPT OF WEAPONIZATION. FINAL PRODUCT WAS ONLY USED DURING AIRSOFT GAMES WITH SAFETY GEARS AND IN MAKER FAIR SHOWCASE. AIRSOFT GUN HAD PROPER POWER BRAKES INSTALLED TO REDUCE ITS POWER TO APPROX. 0.1J, ADHERING TO REPUBLIC OF KOREA'S AIRSOFT SAFETY REGULATIONS**
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -35,16 +35,18 @@ AS THIS PROJECT MAY SEEM CONTROVERSIAL TO SOME AUDIENCE, I WOULD LIKE TO EMPHASI
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
+================================================================
+> **[[LINK - WORKING VIDEO]](https://youtu.be/7pTMrzbmfWs)**
 
+> **[[LINK - BUILD NOTES VIDEO]](https://youtu.be/NleIUokvxGE)**
+================================================================
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 ![T-33](/Images/Turret/T-33.png)
 
-**[[LINK - WORKING VIDEO]](https://youtu.be/7pTMrzbmfWs)**
 
-**[[LINK - BUILD NOTES VIDEO]](https://youtu.be/NleIUokvxGE)**
 
 T-33 is an independent hobby project airsoft turret inspired by the movie *Terminator*. It is controlled by C# WinForms App and Arduino mainboard. Dating back to summer 2015, it is the first project that led me into the world of computer science and engineering, self-teaching C# and Arduino in the process.
 
