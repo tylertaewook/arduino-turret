@@ -9,6 +9,8 @@
 
   <p align="center">
     Terminator-inspired Turret Project Controlled with C# WinForms App
+  <p align="center">
+      June 2015 - September 2015
     <br />
     <a href="https://github.com/tylertaewook/arduino-turret"><strong>Explore the docs »</strong></a>
     <br />
