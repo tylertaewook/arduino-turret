@@ -53,8 +53,6 @@
 
 T-33 is an independent hobby project airsoft turret inspired by the movie *Terminator*. It is controlled by C# WinForms App and Arduino mainboard. Dating back to summer 2015, it is the first project that led me into the world of computer science and engineering, self-teaching C# and Arduino in the process.
 
-Since most files were recovered from an old laptop, please excuse the low quality images and codes.
-
 ### Airsoft Turret
 
 The T-33 turret has following features:
