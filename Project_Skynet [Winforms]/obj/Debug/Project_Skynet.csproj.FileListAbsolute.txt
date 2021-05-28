@@ -1,0 +1,38 @@
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.exe.config
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.exe
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.pdb
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.csprojResolveAssemblyReference.cache
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.FormLoading.resources
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.FormMain.resources
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.Properties.Resources.resources
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.csproj.GenerateResource.Cache
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.exe
+c:\users\성일\documents\visual studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.pdb
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.exe.config
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.exe
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.pdb
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.exe
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.pdb
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.FormLoading.resources
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.FormMain.resources
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.Properties.Resources.resources
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.csproj.GenerateResource.Cache
+C:\Users\Tyler Kim\Documents\Visual Studio 2013\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.FormControl.resources
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.exe.config
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.exe
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.pdb
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.exe
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.pdb
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.csprojResolveAssemblyReference.cache
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.FormControl.resources
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.FormLoading.resources
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.FormMain.resources
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.Properties.Resources.resources
+C:\Users\김태욱\Documents\Visual Studio 2015\Projects\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.csproj.GenerateResource.Cache
+D:\Project Skynet\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.exe.config
+D:\Project Skynet\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.exe
+D:\Project Skynet\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.pdb
+C:\Users\Tyler\Desktop\Project Skynet\Project_Skynet\Project_Skynet\bin\Debug\Project_Skynet.exe.config
+C:\Users\Tyler\Desktop\Project Skynet\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.exe
+C:\Users\Tyler\Desktop\Project Skynet\Project_Skynet\Project_Skynet\obj\Debug\Project_Skynet.pdb
